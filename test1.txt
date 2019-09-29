@@ -11,4 +11,6 @@ test3 newfeatrue1.0
 
 测试版本冲突 master
 
-测试newfeature:
+测试newfeature1
+
+测试master
