@@ -5,3 +5,5 @@ loce can be dangerous
 test2 blowkissfei-patch-1
 
 test3 newfeatrue1.0
+
+测试版本合并 newfeatrue
